@@ -20,23 +20,28 @@
    support _Dynamic Typing_ 
    
 ### Now we will learn declaretion of variable in Go
-  +  ```go 
+ ```go 
       package main 
       import "fmt"
+
       func main () {
-      
-        var name string = "Tejas Dixit" 
-        fmt.Println("Name: ", name)
 
-        var name string 
-        name = "Vignesh" 
-        fmt.Println("Name: ", name) 
+      var name string = "Tejas Dixit" 
+      fmt.Println("Name: ", name)
 
-        name := "Kunal" 
-        fmt.Println("Nmae: ", name) 
+      /*
+       var name string 
+       name = "Vignesh" 
+       fmt.Println("Name: ", name) 
 
-        name = "Datta" 
-        fmt.Println("Name: ", name)
-        } ``` 
-      
+       name := "Kunal" 
+       fmt.Println("Nmae: ", name) 
+
+       name = "Datta" 
+       fmt.Println("Name: ", name)
+      */
+     
+     } 
+     
+   ``` 
   
