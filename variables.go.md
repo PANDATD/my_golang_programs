@@ -30,7 +30,7 @@
       fmt.Println("Name: ", name)
       
       //Note :- Do not  RE-DECALARE VARIABLE 
-      
+     
       /* 
       I just puteed in comment else it gives you ERROR message  like command-line-arguments
           ./variable.go:8:9: name redeclared in this block
@@ -56,4 +56,12 @@
      } 
      
    ``` 
-  
+### Run Program using following commond
+```bash 
+ go run variable.go 
+``` 
+### Output
+``` 
+Name:  Tejas Dixit
+``` 
+
