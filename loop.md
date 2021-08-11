@@ -36,3 +36,8 @@ func main(){
         fmt.Println("Hello World! ",i)
         }
 ```
+   -    To get code file [click hear](loop.go) <br>
+        and clone locally.<br> 
+        and run using <br>  
+        ``` go run loop.go ``` <br>
+        **Note:** You must have installed Golnag in your system.
