@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-const url = "https://lco.dev/"
+const url = "https://github.com/pandatd/"				
 
 func main() {
 	fmt.Println("websier request")
